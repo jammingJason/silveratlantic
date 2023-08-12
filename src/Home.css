@@ -1,0 +1,38 @@
+body {
+  /* background-color: #282c34; */
+}
+
+.truckFlagImage {
+  width: 60%;
+  height: auto;
+
+}
+
+#marineImage {
+  width: 15%;
+  height: auto;
+}
+
+.attributes {
+  text-align: start;
+}
+
+/* .leftSide{
+    
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.rightSide{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  } */
+
+.bq {
+  font-size: 1.1rem;
+}

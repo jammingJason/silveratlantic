@@ -1,5 +1,12 @@
+@font-face {
+  font-family: Fahkwang;
+  src: url('./fonts/Fahkwang.ttf');
+}
 .App {
   text-align: center;
+  color: darkblue;
+  font-family: Fahkwang;
+  
 }
 
 .App-logo {
