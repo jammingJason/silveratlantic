@@ -3,13 +3,12 @@ import './App.css';
 import FootBar from './FootBar';
 import Home from './Home';
 import NavBar from './NavBar';
-import YourApp from './YourApp';
 
 function App() {
   return (
     <div className="App">
       <NavBar />
-      <YourApp />
+      <Home />
       <FootBar />
     </div>
   );
